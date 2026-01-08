@@ -7,11 +7,21 @@
     background-color: #30B868;
     border: none;
     border-radius: 5px;
-    padding: 12px 16px;
+    padding: 12px 25px;
     color: #FFFFFF;
     font-size: 16px;
     font-weight: 600;
     cursor: pointer;
+    align-items: center;
+}
+
+.btn-two , .btn{
+    display: inline-flex;
+    gap: 10px;
+}
+
+.btn:hover , .btn-two:hover{
+     background-color: #5dcf8d;
 }
 
 .e-button{
@@ -107,6 +117,12 @@ nav .menu a{
     border: 2px solid white;
     box-sizing: border-box;
     margin-left: 20px;
+    
+}
+
+.btn-three:hover{
+    color: antiquewhite;
+    border: 2px solid antiquewhite;
 }
 
 .main-d{
@@ -201,10 +217,18 @@ nav .menu a{
 
 .k-four{
     padding: 25px;
+    padding-left: 12px;
     line-height: 30px;
     list-style-type: none;
     /* align-items: center; */
 }
+
+.k-four-list{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
 
 .z-container{
     background-color: #F7F6F2;
