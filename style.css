@@ -165,5 +165,68 @@ nav .menu a{
 
 }
 
+.i-cont{
+    display: flex;
+    padding: 100px;
+    
+}
 
+.k-zero{
+    padding: 100px;
+}
 
+.knowledge-cont{
+    border-radius: 10px;
+    width: 600px;
+    background-color: whitesmoke;
+}
+
+.k-one{
+    padding: 15px;
+    color: #30B868;
+}
+
+.k-two{
+    font-size: 48;
+    font-weight: bold;
+    color: #001931;
+    padding: 12px;
+}
+
+.k-three{
+    color: #627382;
+    padding: 12px;
+    /* border: 1px solid #F95555; */
+}
+
+.k-four{
+    padding: 25px;
+    line-height: 30px;
+    list-style-type: none;
+    /* align-items: center; */
+}
+
+.z-container{
+    background-color: #F7F6F2;
+    width: 1360px;
+    height: 400px;
+    margin: 120px auto;
+    text-align: center;
+
+}
+.z-one{
+    padding: 60px 0 16px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.z-two{
+    color:#627382;
+    padding: 16px;
+    line-height: 30px;
+
+}
+
+.z-three{
+    
+}
