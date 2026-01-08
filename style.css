@@ -218,6 +218,7 @@ nav .menu a{
     padding: 60px 0 16px;
     font-size: 40px;
     font-weight: bold;
+    color: #001931;
 }
 
 .z-two{
@@ -228,5 +229,39 @@ nav .menu a{
 }
 
 .z-three{
+    padding: 20px;
+    color: #627382;
+}
+
+.g-container{
+    background-color: #001931 ;
+    height: 250px;
+    padding-top: 100px;
+    padding-right: 120px;
+    padding-left: 120px;
+}
+
+.fa-cont {
+    display: flex;
+    justify-content: space-between;
     
+}
+
+
+.gg-cont{
+    color: #F7F6F2;
+    margin-right: 80px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+
+.hr-cont{
+    margin-top: 80px;
+}
+
+.x-y-z-cont{
+    color: #FAFAFA;
+    padding: 40px;
+    text-align: center;
 }
